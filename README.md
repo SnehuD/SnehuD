@@ -1,6 +1,6 @@
 ### Hi there, I'm [Snehal Dahake](https://snehal-dahake.netlify.app) 👋
 
-I am a second year Computer Engineering Student at [Dr Ajeenkya D Y Patil School of Engineering and Technology, Lohgaon](https://dypsoet.in), Pune. Apart from that I am Web Developer that loves developing realtime projects and contributing to open source.
+I am a third year Computer Engineering Student at [Dr Ajeenkya D Y Patil School of Engineering and Technology, Lohgaon](https://dypsoet.in), Pune. Apart from that I am Web Developer that loves developing realtime projects and contributing to open source.
 
 **My Reseach Interest**:
 - Web Development
